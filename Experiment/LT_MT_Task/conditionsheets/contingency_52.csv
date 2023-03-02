@@ -1,0 +1,169 @@
+"list_og","list_sort","N","cor_pos","target_letter","rewMag","Ndist","editDistance","N_filler","effort_q"
+"G K M I","GIKM",4,4,"M","86 pts",1,2,0,0
+"R L N P T","LNPRT",5,4,"R","88 pts",1,2,0,0
+"S G I K M O Q E","EGIKMOQS",8,7,"Q","77 pts",1,2,0,0
+"G I K M Q S U W O","GIKMOQSUW",9,7,"S","64 pts",1,2,0,0
+"M S Q O","MOQS",4,4,"S","44 pts",1,2,0,0
+"H T J L N P R","HJLNPRT",7,6,"R","27 pts",1,2,0,1
+"E G I O M K Q S","EGIKMOQS",8,3,"I","87 pts",1,2,0,0
+"E G I K S O Q M U","EGIKMOQSU",9,5,"M","27 pts",1,2,0,1
+"M K Q O","KMOQ",4,4,"Q","34 pts",1,2,0,1
+"J L N P V R T","JLNPRTV",7,3,"N","86 pts",1,2,0,1
+"J F H","FHJ",3,1,"F","37 pts",1,2,0,1
+"P L N R","LNPR",4,4,"R","88 pts",1,2,0,1
+"K M W Q S U O","KMOQSUW",7,5,"S","85 pts",1,2,0,1
+"I K S O Q M U W","IKMOQSUW",8,7,"U","54 pts",1,2,0,1
+"H N J L P","HJLNP",5,1,"H","86 pts",1,2,0,1
+"H F L J N P R","FHJLNPR",7,5,"N","38 pts",1,2,0,1
+"I G K M Q O S U","GIKMOQSU",8,2,"I","69 pts",1,2,0,1
+"L D F H J N P R T","DFHJLNPRT",9,3,"H","68 pts",1,2,0,1
+"M O K","KMO",3,3,"O","26 pts",1,2,0,0
+"U S Q","QSU",3,3,"U","32 pts",1,2,0,0
+"E G I M O Q S U K","EGIKMOQSU",9,7,"Q","26 pts",1,2,0,1
+"I G E","EGI",3,2,"G","44 pts",1,2,0,1
+"D H F J L N R P T","DFHJLNPRT",9,2,"F","52 pts",1,2,0,1
+"M I K","IKM",3,3,"M","24 pts",1,2,0,0
+"D F H L J N R P","DFHJLNPR",8,8,"R","59 pts",1,2,0,1
+"L P N T R V","LNPRTV",6,1,"L","18 pts",1,2,0,0
+"L R N P T","LNPRT",5,5,"T","52 pts",1,2,0,1
+"F J L N P R T V H","FHJLNPRTV",9,6,"P","56 pts",1,2,0,1
+"E G I K Q M O S U","EGIKMOQSU",9,2,"G","50 pts",1,2,0,0
+"M Q S O","MOQS",4,2,"O","32 pts",1,2,0,0
+"O M K Q S","KMOQS",5,5,"S","46 pts",1,2,0,0
+"N H J L P R","HJLNPR",6,4,"N","25 pts",1,2,0,1
+"O Q M","MOQ",3,3,"Q","43 pts",1,2,0,1
+"M O K Q S","KMOQS",5,2,"M","50 pts",1,2,0,1
+"F R J L N P H T","FHJLNPRT",8,3,"J","36 pts",1,2,0,0
+"Q S O","OQS",3,2,"Q","70 pts",1,2,0,1
+"G I K M O S U Q","GIKMOQSU",8,4,"M","46 pts",1,2,0,1
+"S M O Q U","MOQSU",5,5,"U","55 pts",1,2,0,0
+"S U Q","QSU",3,3,"U","46 pts",1,2,0,1
+"G K I M Q O","GIKMOQ",6,3,"K","23 pts",1,2,0,0
+"F H J N P R L","FHJLNPR",7,3,"J","20 pts",1,2,0,1
+"D H F L J N P R T","DFHJLNPRT",9,9,"T","43 pts",1,2,0,1
+"L N P R T J","JLNPRT",6,1,"J","77 pts",1,2,0,1
+"S O Q U","OQSU",4,2,"Q","24 pts",1,2,0,1
+"F H L J P N R T V","FHJLNPRTV",9,5,"N","84 pts",1,2,0,1
+"H N L J","HJLN",4,1,"H","22 pts",1,2,0,1
+"F H J R N P L T","FHJLNPRT",8,7,"R","19 pts",1,2,0,0
+"H J L F N P R T","FHJLNPRT",8,3,"J","45 pts",1,2,0,0
+"I M K Q O","IKMOQ",5,4,"O","20 pts",1,2,0,1
+"D F H J L R P N","DFHJLNPR",8,6,"N","31 pts",1,2,0,1
+"D F L J H N","DFHJLN",6,1,"D","49 pts",1,2,0,1
+"N J L","JLN",3,2,"L","86 pts",1,2,0,0
+"L F H J N P","FHJLNP",6,1,"F","35 pts",1,2,0,1
+"F H J N P L R","FHJLNPR",7,3,"J","60 pts",1,2,0,1
+"J L H","HJL",3,3,"L","56 pts",1,2,0,0
+"J L P R T V N","JLNPRTV",7,7,"V","67 pts",1,2,0,1
+"L N P V R T","LNPRTV",6,6,"V","62 pts",1,2,0,0
+"G I K Q M O S U W","GIKMOQSUW",9,5,"O","82 pts",1,2,0,0
+"H F L J N","FHJLN",5,3,"J","75 pts",1,2,0,0
+"J L R N P T","JLNPRT",6,4,"P","84 pts",1,2,0,1
+"F H J L N R T P V","FHJLNPRTV",9,4,"L","42 pts",1,2,0,0
+"G M I K","GIKM",4,3,"K","58 pts",1,2,0,0
+"L R P N","LNPR",4,3,"P","69 pts",1,2,0,0
+"O I K M","IKMO",4,4,"O","42 pts",1,2,0,1
+"J P N L","JLNP",4,2,"L","55 pts",1,2,0,0
+"H J R L N P T V","HJLNPRTV",8,4,"N","32 pts",1,2,0,0
+"K Q O M S U","KMOQSU",6,4,"Q","26 pts",1,2,0,1
+"P N L R T","LNPRT",5,1,"L","33 pts",1,2,0,0
+"G I K M O W S U Q","GIKMOQSUW",9,5,"O","48 pts",1,2,0,0
+"M G I K O","GIKMO",5,4,"M","16 pts",1,2,0,1
+"F H J L N T P R","FHJLNPRT",8,7,"R","63 pts",1,2,0,0
+"N T P R","NPRT",4,3,"R","67 pts",1,2,0,0
+"H F D","DFH",3,3,"H","12 pts",1,2,0,1
+"P N L","LNP",3,2,"N","31 pts",1,2,0,1
+"D H F L J","DFHJL",5,1,"D","72 pts",1,2,0,1
+"E G I M O K","EGIKMO",6,3,"I","67 pts",1,2,0,0
+"P N L R","LNPR",4,2,"N","83 pts",1,2,0,1
+"H J L N R T V P","HJLNPRTV",8,2,"J","39 pts",1,2,0,1
+"K I O M Q S","IKMOQS",6,3,"M","59 pts",1,2,0,0
+"G I U M O Q S K","GIKMOQSU",8,2,"I","82 pts",1,2,0,1
+"L D F H J N","DFHJLN",6,5,"L","24 pts",1,2,0,0
+"H J N P R T L V","HJLNPRTV",8,6,"R","29 pts",1,2,0,1
+"I K M O U S Q","IKMOQSU",7,4,"O","36 pts",1,2,0,0
+"F J L H N P R T","FHJLNPRT",8,4,"L","88 pts",1,2,0,1
+"D N H J L F P R T","DFHJLNPRT",9,6,"N","23 pts",1,2,0,1
+"L N R T V P","LNPRTV",6,3,"P","87 pts",1,2,0,1
+"H J L F N P R","FHJLNPR",7,5,"N","29 pts",1,2,0,0
+"L N J","JLN",3,1,"J","75 pts",1,2,0,0
+"K G I M O Q S","GIKMOQS",7,2,"I","45 pts",1,2,0,0
+"J N L P T R V","JLNPRTV",7,3,"N","72 pts",1,2,0,1
+"G I U K M O Q S","GIKMOQSU",8,1,"G","83 pts",1,2,0,0
+"L J N R P T","JLNPRT",6,1,"J","13 pts",1,2,0,0
+"D H J L N F P R T","DFHJLNPRT",9,3,"H","74 pts",1,2,0,1
+"H R L N P J T V","HJLNPRTV",8,4,"N","43 pts",1,2,0,0
+"O E G I K M","EGIKMO",6,2,"G","73 pts",1,2,0,0
+"N L J P","JLNP",4,3,"N","74 pts",1,2,0,0
+"K M O U Q S","KMOQSU",6,5,"S","56 pts",1,2,0,1
+"U O Q S","OQSU",4,1,"O","54 pts",1,2,0,0
+"N P L","LNP",3,3,"P","89 pts",1,2,0,0
+"O M K","KMO",3,2,"M","82 pts",1,2,0,0
+"F H N L J","FHJLN",5,4,"L","40 pts",1,2,0,0
+"H J F","FHJ",3,2,"H","47 pts",1,2,0,1
+"K G I M","GIKM",4,4,"M","46 pts",1,2,0,1
+"P H J L N","HJLNP",5,1,"H","37 pts",1,2,0,0
+"I E G","EGI",3,3,"I","20 pts",1,2,0,1
+"O Q S U M W","MOQSUW",6,1,"M","28 pts",1,2,0,0
+"I G M K O Q S","GIKMOQS",7,4,"M","75 pts",1,2,0,0
+"E G I S K M O Q U","EGIKMOQSU",9,6,"O","88 pts",1,2,0,1
+"I O M K Q","IKMOQ",5,4,"O","70 pts",1,2,0,0
+"L H J","HJL",3,3,"L","59 pts",1,2,0,1
+"O K M Q","KMOQ",4,2,"M","40 pts",1,2,0,1
+"P J L N R T V","JLNPRTV",7,3,"N","56 pts",1,2,0,1
+"G I K M Q S O","GIKMOQS",7,1,"G","83 pts",1,2,0,0
+"O S U Q","OQSU",4,1,"O","76 pts",1,2,0,0
+"E I K M O Q G","EGIKMOQ",7,7,"Q","35 pts",1,2,0,0
+"F N J L H P","FHJLNP",6,6,"P","79 pts",1,2,0,1
+"N J L P R","JLNPR",5,4,"P","30 pts",1,2,0,1
+"D H J L N P R F T","DFHJLNPRT",9,6,"N","85 pts",1,2,0,0
+"F H J L P R T N V","FHJLNPRTV",9,7,"R","81 pts",1,2,0,0
+"W M O Q S U K","KMOQSUW",7,5,"S","23 pts",1,2,0,0
+"P N T R","NPRT",4,2,"P","73 pts",1,2,0,1
+"K E G I","EGIK",4,4,"K","79 pts",1,2,0,1
+"G I Q M O K S","GIKMOQS",7,7,"S","21 pts",1,2,0,1
+"O K M","KMO",3,1,"K","90 pts",1,2,0,0
+"G I M O K","GIKMO",5,2,"I","85 pts",1,2,0,0
+"D F H R L N P J","DFHJLNPR",8,3,"H","33 pts",1,2,0,0
+"F H D","DFH",3,2,"F","45 pts",1,2,0,0
+"D H J L N P R T F","DFHJLNPRT",9,1,"D","58 pts",1,2,0,1
+"R N P","NPR",3,2,"P","72 pts",1,2,0,1
+"I M O Q K","IKMOQ",5,1,"I","34 pts",1,2,0,1
+"F H J R L N P T V","FHJLNPRTV",9,2,"H","12 pts",1,2,0,0
+"M I K G O Q S U W","GIKMOQSUW",9,7,"S","18 pts",1,2,0,0
+"J L N T R P V","JLNPRTV",7,2,"L","89 pts",1,2,0,0
+"I E G K M O Q S U","EGIKMOQSU",9,5,"M","65 pts",1,2,0,0
+"G I M O Q S U K","GIKMOQSU",8,8,"U","64 pts",1,2,0,1
+"E M I K G O Q S","EGIKMOQS",8,7,"Q","44 pts",1,2,0,0
+"I K S M O Q U","IKMOQSU",7,6,"S","81 pts",1,2,0,0
+"E G I M O K Q S","EGIKMOQS",8,2,"G","23 pts",1,2,0,1
+"J N P R L","JLNPR",5,5,"R","77 pts",1,2,0,1
+"K M U Q S O W","KMOQSUW",7,6,"U","43 pts",1,2,0,0
+"P H J L N F R","FHJLNPR",7,1,"F","17 pts",1,2,0,0
+"L J H","HJL",3,2,"J","42 pts",1,2,0,0
+"Q O M","MOQ",3,2,"O","33 pts",1,2,0,0
+"D N F H J L P","DFHJLNP",7,2,"F","12 pts",1,2,0,1
+"D H F J N L P","DFHJLNP",7,5,"L","46 pts",1,2,0,1
+"M Q S U O","MOQSU",5,3,"Q","63 pts",1,2,0,1
+"K O Q M","KMOQ",4,4,"Q","82 pts",1,2,0,1
+"K G I M O","GIKMO",5,4,"M","28 pts",1,2,0,0
+"J H N L","HJLN",4,3,"L","10 pts",1,2,0,0
+"H R J L N P","HJLNPR",6,1,"H","55 pts",1,2,0,0
+"D F H J L N R T P","DFHJLNPRT",9,1,"D","62 pts",1,2,0,0
+"D F H J R L N P T","DFHJLNPRT",9,3,"H","34 pts",1,2,0,1
+"K M S O Q","KMOQS",5,3,"O","53 pts",1,2,0,0
+"N J L H P R","HJLNPR",6,1,"H","41 pts",1,2,0,1
+"O Q M S","MOQS",4,2,"O","37 pts",1,2,0,1
+"H J F L N","FHJLN",5,5,"N","44 pts",1,2,0,1
+"O K M I Q S","IKMOQS",6,4,"O","33 pts",1,2,0,1
+"T F H J L N P R V","FHJLNPRTV",9,6,"P","53 pts",1,2,0,0
+"O K M I Q S U","IKMOQSU",7,1,"I","64 pts",1,2,0,0
+"I S K M O Q","IKMOQS",6,1,"I","34 pts",1,2,0,1
+"T N P R L","LNPRT",5,3,"P","84 pts",1,2,0,0
+"G Q I K M O","GIKMOQ",6,5,"O","53 pts",1,2,0,0
+"L H J N","HJLN",4,4,"N","26 pts",1,2,0,0
+"G Q I K M O S U","GIKMOQSU",8,3,"K","48 pts",1,2,0,1
+"G I O K M","GIKMO",5,2,"I","58 pts",1,2,0,1
+"K M I","IKM",3,2,"K","77 pts",1,2,0,1
+"S K M O Q I U W","IKMOQSUW",8,6,"S","60 pts",1,2,0,0
+"G I K M E O","EGIKMO",6,3,"I","63 pts",1,2,0,0
