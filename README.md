@@ -1,10 +1,11 @@
 # Letter Task Experiment & Analysis Code - Public
 
-## Experiment Code Availability:
-For code to recreate the experiments, see "Experiment" folder. The Letter Task with Multiple Attempt (LT_MT) is available in the LT_MT_Task folder and the Letter Task with Single Attempt (LT_ST) is available in the LT_ST_Task folder. 
 ## Data Availability:
 The data for both of the studies are available at the [OSF project page](https://osf.io/3txm5).
 Data processing is included in the Analysis Scripts described below. Some data files were edited to remove personal information (non-identifying names, a proportion of participants had reported their name in the ID field despite the clear instruction conveying otherwise). They were assigned new ID that started with the letter "B." Certain individuals also did not provide their MTurk worker ID as instructed, they were assigned a random ID during analysis (simple non-repeated numeric numbers, done as part of data importation process). ID started with the letter "A" were participants' MTurk worker IDs. 
+
+## Experiment Code Availability:
+For code to recreate the experiments, see "Experiment" folder. The Letter Task with Multiple Attempt (LT_MT) is available in the LT_MT_Task folder and the Letter Task with Single Attempt (LT_ST) is available in the LT_ST_Task folder. 
 
 ## Letter Task Multiple Attempt Version Analysis 
  To read more about the task, please refer to the paper.
